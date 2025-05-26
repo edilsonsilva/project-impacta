@@ -94,6 +94,6 @@ Certifique-se de iniciar os microsserviços *antes* do API Gateway para que eles
 
 ## Contribuição
 
-Este repositório é uma demonstração dos conhecimentos adquiridos. Se você tiver sugestões ou encontrar algum problema, sinta-se à vontade para [abrir uma *issue*](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/issues) ou [enviar um *pull request*](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/pulls).
+Este repositório é uma demonstração dos conhecimentos adquiridos. 
 
 ---
