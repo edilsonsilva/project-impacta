@@ -22,7 +22,7 @@ Aqui você encontrará exemplos práticos e implementações de arquiteturas dis
 
 Este repositório está organizado para apresentar os diferentes projetos desenvolvidos, cada um explorando um aspecto da arquitetura de microsserviços e Service Mesh:
 
-### [**`clientes/`**](clientes/)
+### [**`clientes-service/`**](clientes-service/)
 Contém as aplicações **cliente** (front-end ou outros serviços) que consomem os microsserviços através do API Gateway. Isso demonstra como os clientes interagem com a arquitetura.
 
 
