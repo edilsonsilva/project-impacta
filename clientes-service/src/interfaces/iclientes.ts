@@ -1,6 +1,6 @@
 export default interface IClientes<T>{
-    insert(obj:T):Promise<T>;
-    list():Promise<T[]>;
-    update(obj:T):Promise<T>;
-    delete(id:Number):Promise<T>
+    inserir(obj:T):Promise<T>;
+    listar():Promise<T[]>;
+    atualizar(obj:T):Promise<T>;
+    deletar(id:Number):Promise<T>
 }
