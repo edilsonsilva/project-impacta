@@ -25,7 +25,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 
 * [**Node.js**](https://nodejs.org/en/download/) (versão 18 ou superior recomendada)
 * [**npm**](https://www.npmjs.com/) (gerenciador de pacotes do Node.js, geralmente vem com o Node.js)
-* [**Docker**](https://docs.docker.com/get-docker/) e [**Docker Compose**](https://docs.docker.com/compose/install/)
+* [**Docker**](https://docs.docker.com/get-docker/)
 
 ---
 
