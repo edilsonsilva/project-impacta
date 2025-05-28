@@ -36,8 +36,9 @@ Siga os passos abaixo para colocar o microsserviço em funcionamento.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/edilsonsilva/project-impacta.git](https://github.com/edilsonsilva/project-impacta.git)
-cd seu-repositorio-clientes
+git clone https://github.com/edilsonsilva/project-impacta.git
+
+cd project-impacta
 ```
 ---
 
