@@ -1,5 +1,5 @@
 {
-  "name": "api-gateway-clientes",
+  "name": "clientes-service",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-    "dependencies": {
+  "dependencies": {
     "@types/cors": "^2.8.18",
     "@types/express": "^5.0.2",
     "@types/node": "^22.15.21",
